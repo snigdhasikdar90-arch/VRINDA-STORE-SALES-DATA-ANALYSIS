@@ -44,6 +44,9 @@ The Vrinda Store should focus on:
 ## 📂 Deliverables
 - **Excel Dashboard** with slicers and charts  
 - Sales analysis by **gender, age group, state, channel, and status**  
-- Business recommendations based on findings  
+- Business recommendations based on findings
+
+- ## Contact:
+- Linkedin:www.linkedin.com/in/snigdha-sikdar-85b391377
 
 ---
